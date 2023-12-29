@@ -84,7 +84,7 @@ print(
     "---------------------------------------------\n---------------------------------------------\n"
 )
 
-print("Number of samples for TRAIN:", len(TRAIN))
-print("Number of samples for VAL:", len(VAL))
-print("Number of samples for TEST:", len(TEST))
+print("Number of the samples for TRAIN:", len(TRAIN))
+print("Number of the samples for VAL:", len(VAL))
+print("Number of the samples for TEST:", len(TEST))
 print("done!")
