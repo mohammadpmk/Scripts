@@ -1,6 +1,6 @@
 ''' 
 This python code is designed to pick special classses from the main dataset 
-and create a new dataset (folder) with chosen class numbers. also for the new
+and create a new dataset (folder) with chosen class numbers. Also for the new
 dataset the class numbers are respectively changed (starting from zero to the 
 max number of classes in the new dataset.
 
