@@ -24,7 +24,7 @@ for x in range(0, MAX_CLASS_ID):
     CLS_NUMS[str(x)] = 0
     IMGS_ROOTS[str(x)] = []
 
-for i in TEXT_LIST:  # old data root: old_data and for new: data
+for i in TEXT_LIST:  # Old data root: old_data and for new: data
     if i == SOURCE_ROOT + "classes.txt":
         continue
     IMG_JPG = i.split(".")[0] + ".jpg"
